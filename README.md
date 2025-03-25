@@ -25,7 +25,7 @@ Alur Program
 
 **🖥️ Cara Menjalankan**
 -> Clone repositori atau salin kode ke file konverter_suhu.py.
--> Jalankan di terminal: **python konverter_suhu.py**
+-> Jalankan di terminal: **python konversi_suhu.py**
 
 **📚 Library Digunakan**
 -> re: Untuk validasi input nilai suhu dengan regex.
